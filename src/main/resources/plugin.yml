@@ -1,0 +1,9 @@
+name: AdminSys
+main: me.etblaky.AdminSys.AdminSys
+version: 1.0
+
+commands:
+  Owner:
+  Admin:
+  Dev:
+  clearTag:
